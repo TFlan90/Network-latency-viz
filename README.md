@@ -24,5 +24,5 @@ pip install pythonping matplotlib
 python main.py
 
 #Sample Output
-[Screenshot of output](images/sample_run.png)
-[Screenshot of graph](images/graph.png)
+![Screenshot of output](images/sample_run.png)
+![Screenshot of graph](images/graph.png)
