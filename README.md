@@ -22,7 +22,7 @@ pip install pythonping matplotlib
 
 #Run it
 python main.py
-
+```
 #Sample Output
 ![Screenshot of output](images/sample_run.png)
 ![Screenshot of graph](images/graph.png)
